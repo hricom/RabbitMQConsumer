@@ -1,0 +1,11 @@
+d:\usuarios\hrico\source\repos\Consumer\ConsoleAppReceiving\bin\Debug\netcoreapp2.0\ConsoleAppReceiving.deps.json
+d:\usuarios\hrico\source\repos\Consumer\ConsoleAppReceiving\bin\Debug\netcoreapp2.0\ConsoleAppReceiving.runtimeconfig.json
+d:\usuarios\hrico\source\repos\Consumer\ConsoleAppReceiving\bin\Debug\netcoreapp2.0\ConsoleAppReceiving.runtimeconfig.dev.json
+d:\usuarios\hrico\source\repos\Consumer\ConsoleAppReceiving\bin\Debug\netcoreapp2.0\ConsoleAppReceiving.dll
+d:\usuarios\hrico\source\repos\Consumer\ConsoleAppReceiving\obj\Debug\netcoreapp2.0\ConsoleAppReceiving.csprojAssemblyReference.cache
+d:\usuarios\hrico\source\repos\Consumer\ConsoleAppReceiving\obj\Debug\netcoreapp2.0\ConsoleAppReceiving.csproj.CoreCompileInputs.cache
+d:\usuarios\hrico\source\repos\Consumer\ConsoleAppReceiving\obj\Debug\netcoreapp2.0\ConsoleAppReceiving.AssemblyInfoInputs.cache
+d:\usuarios\hrico\source\repos\Consumer\ConsoleAppReceiving\obj\Debug\netcoreapp2.0\ConsoleAppReceiving.AssemblyInfo.cs
+d:\usuarios\hrico\source\repos\Consumer\ConsoleAppReceiving\bin\Debug\netcoreapp2.0\ConsoleAppReceiving.pdb
+d:\usuarios\hrico\source\repos\Consumer\ConsoleAppReceiving\obj\Debug\netcoreapp2.0\ConsoleAppReceiving.dll
+d:\usuarios\hrico\source\repos\Consumer\ConsoleAppReceiving\obj\Debug\netcoreapp2.0\ConsoleAppReceiving.pdb
