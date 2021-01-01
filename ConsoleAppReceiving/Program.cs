@@ -1,6 +1,4 @@
 ﻿/// <summary>
-/// 
-/// 
 /// Prueba de utilizacion de RabbitMQ
 /// </summary>
 
